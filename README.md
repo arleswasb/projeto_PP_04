@@ -37,7 +37,7 @@ Este projeto utiliza um `Makefile` para simplificar o processo de compilação.
 
 ```bash
 # 1. Clone este repositório
-$ git clone <URL_DO_SEU_REPOSITORIO>
+$ git clone <https://github.com/arleswasb/projeto_PP_04.git>
 
 # 2. Acesse a pasta do projeto
 $ cd projeto_PP_04
@@ -68,6 +68,12 @@ A estrutura de pastas do projeto está organizada da seguinte forma:
 └── README.md     # Documentação do projeto
 ```
 
-## ✒️ Autores
+## ✒️ Autor
 
-- **[Seu Nome]** - ([Seu GitHub/LinkedIn](https://...))
+- **[Werbert arles]** - (https://github.com/arleswasb/)
+
+## 💻 imagens
+
+![Terminal com tempos](terminal.png)
+
+![tela do Neohtop com as barras de desempenho da cpu](neohtop.png)
