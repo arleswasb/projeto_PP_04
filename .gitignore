@@ -1,0 +1,33 @@
+# Arquivos de log e dados gerados
+*.log
+*.csv
+*.txt
+
+# Arquivos compilados e intermediários de C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Diretórios de Build comuns
+build/
+bin/
+obj/
+
+# Arquivos específicos de editores e IDEs
+# Visual Studio Code
+.vscode/
+
+# JetBrains (CLion, etc.)
+.idea/
+
+# Arquivos específicos do Sistema Operacional
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
